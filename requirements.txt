@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+arviz
+pymc
+jupyter
+notebook
