@@ -1,4 +1,12 @@
 # Healthcare Cost Risk Analysis
+## Highlights
+
+**Smoker vs Non-smoker Cost Distribution**
+![Cost Distribution](figures/01_cost_distribution.png)
+
+**Observed vs Predicted (Best Model)**
+![Observed vs Predicted](figures/02_obs_vs_pred.png)
+
 
 ## Project Overview
 This project analyzes the key drivers of healthcare insurance costs using statistical and Bayesian modeling techniques.  
