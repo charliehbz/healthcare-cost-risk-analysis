@@ -6,7 +6,7 @@ This project uses the Kaggle Medical Insurance Cost Dataset.
 
 ### How to download
 
-1. Visit Kaggle: https://www.kaggle.com/datasets/mirichoi0218/insurance
+1. Visit Kaggle: [https://www.kaggle.com/datasets/mirichoi0218/insurance](https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset/data)
 2. Accept the terms and download the dataset.
 3. Unzip the archive.
 
