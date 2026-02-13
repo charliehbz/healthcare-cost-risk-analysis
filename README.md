@@ -8,6 +8,16 @@
 ![Observed vs Predicted](figures/02_obs_vs_pred.png)
 
 
+## Highlights
+### Smoker vs Non-smoker Cost Distribution
+
+![Cost Distribution](figures/01_cost_distribution.png)
+
+### Observed vs Predicted (Best Model)
+
+![Observed vs Predicted](figures/02_obs_vs_pred.png)
+
+
 ## Project Overview
 This project analyzes the key drivers of healthcare insurance costs using statistical and Bayesian modeling techniques.  
 The goal is to understand how demographic and behavioral factors contribute to cost variability, uncertainty, and risk heterogeneity, and to illustrate how advanced statistical models can support data-driven decision making.
