@@ -1,12 +1,4 @@
 # Healthcare Cost Risk Analysis
-## Highlights
-
-**Smoker vs Non-smoker Cost Distribution**
-![Cost Distribution](figures/01_cost_distribution.png)
-
-**Observed vs Predicted (Best Model)**
-![Observed vs Predicted](figures/02_obs_vs_pred.png)
-
 
 ## Highlights
 ### Smoker vs Non-smoker Cost Distribution
